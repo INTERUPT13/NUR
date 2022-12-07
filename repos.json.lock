@@ -554,8 +554,8 @@
             "url": "https://github.com/PhotonQuantum/nur-packages"
         },
         "linyinfeng": {
-            "rev": "20ca1be5223c8fa7fca9d8c3dee37c6c767376b8",
-            "sha256": "0q3m732xb27iyvmzs4kl3mjw9gfjbla2wj765v88sg5hk2s7y9pz",
+            "rev": "d927599e2aeb3b2ea9cd2298d244512e6ed765dd",
+            "sha256": "09dmfc356pqy7afh7lhz26yh8kdbw3875f6kcca3spj3wig5cwzw",
             "url": "https://github.com/linyinfeng/nur-packages"
         },
         "lourkeur": {
@@ -952,8 +952,8 @@
             "url": "https://github.com/sigprof/nur-packages"
         },
         "sikmir": {
-            "rev": "8d5f26cebab28148f723ac83763f614884153845",
-            "sha256": "1pz3mmzcvz7fn1aw42ydqni82qg93vknrdmr7gbgmz8mmf7zs0p0",
+            "rev": "1acdab841cd7d7b24e1328b5ea789e49cbc1e420",
+            "sha256": "04b3yvl4r46gh8w6k107n8hbag5b0xzs7yw8xwh4ikiym38j26z9",
             "url": "https://github.com/sikmir/nur-packages"
         },
         "sky": {
